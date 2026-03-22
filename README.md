@@ -1,5 +1,3 @@
-# MizoramEducationHub
-Education with Talent
 import React from 'react';
 import { motion } from 'framer-motion';
 import { BookOpen, PlayCircle, Download, Bell, ShieldCheck, CreditCard, Users, MessageCircle, CheckCircle2, Star } from 'lucide-react';
@@ -321,4 +319,3 @@ export default function EdTechWebsitePreview() {
     </div>
   );
 }
-
